@@ -12,7 +12,7 @@ This project is a C program that converts images into ASCII art and displays the
 ## Requirements
 
 - A C compiler (e.g., gcc)
-- The `stb_image.h` library (included in the project)
+- The `stb_image.h` library ~~(included in the project)~~
 
 ## Usage
 
