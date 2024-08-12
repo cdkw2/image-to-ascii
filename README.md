@@ -33,6 +33,10 @@ This program supports various image formats, including:
 - BMP
 - GIF
 
+## Example:
+
+![](https://i.imgur.com/IU7Ioov.png)
+
 ## Limitations
 
 - The quality of the ASCII art depends on the terminal size and the complexity of the original image.
